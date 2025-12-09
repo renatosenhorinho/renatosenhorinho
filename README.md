@@ -5,8 +5,8 @@
 
   <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://giffiles.alphacoders.com/221/221997.gif">
 
-- 🎓 Dev Júnior focado em Python  
-- 🐍 Apaixonado por automação
+- 🎓 Dev Júnior atualmente focado em Python  
+
 ### My Skills(Junior Dev):
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=161b22)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=161b22)&nbsp;
