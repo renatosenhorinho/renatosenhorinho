@@ -1,16 +1,26 @@
-## Hi there 👋
+### Opa, meu nome é Renato, mais conhecido como Senhorinho! 🐲
 
-<!--
-**renatosenhorinho/renatosenhorinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=header"/>
 
-Here are some ideas to get you started:
+</div>
+  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://giffiles.alphacoders.com/221/221997.gif">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills(Junior Dev):
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=161b22)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=161b22)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=161b22)&nbsp;
+
+<br><br>
+
+##
+
+### Studying:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=161b22)&nbsp;
+![MySql](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySql&labelColor=161b22)&nbsp;
+
+<div align="right"> 
+  <a href="https://www.linkedin.com/in/renatosenhorinho/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
